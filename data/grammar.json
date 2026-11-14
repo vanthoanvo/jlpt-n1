@@ -1,0 +1,134 @@
+[
+  {
+    "id": "n1-001",
+    "group": "Điều kiện – giả định",
+    "pattern": "～ないことには",
+    "meaning": "Nếu không… thì không thể…",
+    "formation": "Động từ thể ない + ことには",
+    "example": "実際に使ってみないことには、この機械の性能は分からない。",
+    "translation": "Nếu không vực thự sử dụng thực tế thì không thể biết hiệu suất của chiếc máy này.",
+    "note": "Nhấn mạnh một việc là điều kiện cần để có thể đánh giá hoặc thực hiện việc tiếp theo.",
+    "compare": "～なければ: cách nói điều kiện phủ định thông thường; ～ないことには nhấn mạnh thiếu điều kiện thì không thể tiến hành."
+  },
+  {
+    "id": "n1-002",
+    "group": "Điều kiện – giả định",
+    "pattern": "～ようものなら",
+    "meaning": "Nếu chẳng may… thì sẽ dẫn đến kết quả không mong muốn",
+    "formation": "Động từ thể ý chí + ものなら",
+    "example": "安全カバーを外そうものなら、機械を停止させなければならない。",
+    "translation": "Nếu chẳng may tháo tấm che an toàn thì phải dừng máy.",
+    "note": "Thường đi với kết quả xấu, nghiêm trọng hoặc đáng lo ngại.",
+    "compare": "～ものなら có thể diễn tả giả định; ～ようものなら thường cảnh báo hậu quả tiêu cực."
+  },
+  {
+    "id": "n1-003",
+    "group": "Nguyên nhân – lý do",
+    "pattern": "～ばこそ",
+    "meaning": "Chính vì… nên…",
+    "formation": "Động từ thểば + こそ; tính từ/ danh từ có dạng phù hợp",
+    "example": "品質を大切にすればこそ、何度も検査する。",
+    "translation": "Chính vì coi trọng chất lượng nên mới kiểm tra nhiều lần.",
+    "note": "Nhấn mạnh lý do có ý nghĩa tích cực hoặc là động lực cho hành động.",
+    "compare": "～からこそ cũng nhấn mạnh lý do; ～ばこそ thường mang sắc thái văn viết hơn."
+  },
+  {
+    "id": "n1-004",
+    "group": "Nhượng bộ – đối lập",
+    "pattern": "～とはいえ",
+    "meaning": "Tuy nói là… nhưng…",
+    "formation": "普通形 + とはいえ",
+    "example": "経験があるとはいえ、新しい設備については確認が必要だ。",
+    "translation": "Tuy có kinh nghiệm nhưng vẫn cần kiểm tra về thiết bị mới.",
+    "note": "Thừa nhận một sự thật rồi nêu thêm điều trái với dự đoán hoặc giới hạn của sự thật đó.",
+    "compare": "～ものの cũng có nghĩa tuy… nhưng; ～とはいえ thường nêu sự thừa nhận rõ ràng hơn."
+  },
+  {
+    "id": "n1-005",
+    "group": "Nhượng bộ – đối lập",
+    "pattern": "～にもかかわらず",
+    "meaning": "Mặc dù… nhưng vẫn…",
+    "formation": "普通形 + にもかかわらず; danh từ + にもかかわらず",
+    "example": "十分に準備したにもかかわらず、試験で緊張してしまった。",
+    "translation": "Mặc dù đã chuẩn bị đầy đủ nhưng tôi vẫn bị căng thẳng trong kỳ thi.",
+    "note": "Diễn tả kết quả trái với điều được kỳ vọng từ vế trước.",
+    "compare": "～のに gần nghĩa nhưng thường mang sắc thái hội thoại, cảm xúc hơn."
+  },
+  {
+    "id": "n1-006",
+    "group": "Thời gian – trình tự",
+    "pattern": "～に先立って",
+    "meaning": "Trước khi…; trước một sự kiện…",
+    "formation": "Danh từ + に先立って",
+    "example": "新しい機械の導入に先立って、作業者への説明会を行う。",
+    "translation": "Trước khi đưa máy mới vào sử dụng, sẽ tổ chức buổi hướng dẫn cho công nhân.",
+    "note": "Thường dùng trong văn viết hoặc thông báo trang trọng, với sự kiện có kế hoạch.",
+    "compare": "～前に thông dụng hơn; ～に先立って trang trọng và thường gắn với sự kiện quan trọng."
+  },
+  {
+    "id": "n1-007",
+    "group": "Thời gian – trình tự",
+    "pattern": "～が早いか",
+    "meaning": "Vừa mới… thì ngay lập tức…",
+    "formation": "Động từ thể từ điển + が早いか",
+    "example": "チャイムが鳴るが早いか、社員たちは作業場へ向かった。",
+    "translation": "Chuông vừa reo là các nhân viên lập tức đi về phía xưởng.",
+    "note": "Hai hành động xảy ra gần như liên tiếp; thường dùng để kể sự việc.",
+    "compare": "～や否や cũng diễn tả ngay sau khi; ～が早いか nhấn mạnh tốc độ và tính tức thì."
+  },
+  {
+    "id": "n1-008",
+    "group": "Phán đoán – đánh giá",
+    "pattern": "～にほかならない",
+    "meaning": "Không gì khác ngoài…; chính là…",
+    "formation": "Danh từ + にほかならない",
+    "example": "今回の成功は、チーム全員の努力の結果にほかならない。",
+    "translation": "Thành công lần này không gì khác ngoài kết quả nỗ lực của toàn đội.",
+    "note": "Khẳng định mạnh nguyến noọ, bản chất hoặc kết quyết lảm lưỻng cái lập của nội nçi",
+    "compare": "～に違いない là suy đoán chắc chắn; ～にほかならない là khẳng định bản chất/định nghĩa."
+  },
+  {
+    "id": "n1-009",
+    "group": "Nghĩa vụ – khả năng",
+    "pattern": "～ざるを得ない",
+    "meaning": "Buộc phải…; không còn cách nào khác ngoài…",
+    "formation": "Động từ bỏ ない + ざるを得ない; する → せざるを得ない",
+    "example": "部品が届かないため、出荷を延期せざるを得ない。",
+    "translation": "Vì linh kiện chưa đến nên buộc phải hoãn xuất hàng.",
+    "note": "Người nói không muốn nhưng hoàn cảnh khiến phải làm.",
+    "compare": "～なければならない nói về nghĩa vụ; ～ざるを得ない nhấn mạnh tình thế không có lựa chọn."
+  },
+  {
+    "id": "n1-010",
+    "group": "Nghĩa vụ – khả năng",
+    "pattern": "～かねない",
+    "meaning": "Có thể dẫn đến… (thường là kết quả xấu)",
+    "formation": "Động từ thểます bỏ ます + かねない",
+    "example": "確認を怠ると、大きな事故につながりかねない。",
+    "translation": "Nếu lơ là việc kiểm tra thì có thể dẫn đến tai nạn lớn.",
+    "note": "Dự đoán một nguy cơ hoặc kết quả tiêu cực có khả năng xảy ra.",
+    "compare": "～おそれがある cũng diễn tả nguy cơ; ～かねない thường gắn trực tiếp với hành động hoặc nguyên nhân."
+  },
+  {
+    "id": "n1-011",
+    "group": "Văn viết – căn cứ",
+    "pattern": "～を踏まえて",
+    "meaning": "Dựa trên…; có tính đến…",
+    "formation": "Danh từ + を踏まえて",
+    "example": "検査結果を踏まえて、設計を見直します。",
+    "translation": "Dựa trên kết quả kiểm tra, chúng tôi sẽ xem xét lại thiết kế.",
+    "note": "Dùng khi đưa ra quyết định sau khi cân nhắc dữ liệu, tình hình hoặc kinh nghiệm.",
+    "compare": "～に基づいて nhấn mạnh căn cứ/nền tảng; ～を踏まえて nhấn mạnh việc cân nhắc thông tin đó."
+  },
+  {
+    "id": "n1-012",
+    "group": "Văn viết – căn cứ",
+    "pattern": "～に即して",
+    "meaning": "Phù hợp với…; căn cứ sát theo…",
+    "formation": "Danh từ + に即して",
+    "example": "社内規定に即して、作業手順を変更してください。",
+    "translation": "Hãy thay đổi quy trình làm việc phù hợp với quy định nội bộ.",
+    "note": "Văn phong trang trọng, dùng khi hành động theo tình hình thực tế, tiêu chuẩn hoặc quy định.",
+    "compare": "～に従って là làm theo; ～に即して nhấn mạnh sự phù hợp sát với thực tế hoặc nguyên tắc."
+  }
+]
