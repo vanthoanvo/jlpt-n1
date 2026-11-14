@@ -21,3 +21,7 @@ Triển khai ứng dụng trên HTTPS, mở bằng Safari, chọn Chia sẻ → 
 
 ## Giới hạn hiện tại
 Đây là MVP thử nghiệm, gồm 12 mẫu, chưa phải khóa học N1 đầy đủ. Tiến độ lưu cục bộ trong từng trình duyệt và chưa đồng bộ giữa các thiết bị. Nội dung cần được biên tập, kiểm chứng thêm.
+
+
+## Nghe câu ví dụ tiếng Nhật
+Trong mỗi bài học và phần phản hồi trắc nghiệm, nhấn nút **Nghe** để phát câu ví dụ bằng giọng đọc tiếng Nhật của trình duyệt/thiết bị. Nút **Dừng** ngắt phần đọc đang phát. Trên iPhone, mở ứng dụng bằng Safari; chất lượng và lựa chọn giọng đọc phụ thuộc các giọng tiếng Nhật được cài trong iOS.
