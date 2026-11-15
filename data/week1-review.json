@@ -1,0 +1,158 @@
+[
+  {
+    "id": "r1",
+    "question": "親の苦労は、自分が親に（　）本当にわかる。",
+    "options": [
+      "～てこそ",
+      "～ことなしに",
+      "～とされる",
+      "～たところで"
+    ],
+    "answer": "～てこそ",
+    "explanation": "～てこそ nhấn mạnh rằng chính trải nghiệm làm cha mẹ là điều kiện để hiểu được nỗi vất vả của cha mẹ.",
+    "example": "実際に現場で働いてこそ、作業の難しさが理解できる。"
+  },
+  {
+    "id": "r2",
+    "question": "この部品は見た目（　）、耐久性は非常に高い。",
+    "options": [
+      "～こそ～が",
+      "～ものとする",
+      "～のことだから",
+      "～とみられる"
+    ],
+    "answer": "～こそ～が",
+    "explanation": "～こそ～が thừa nhận và nhấn mạnh đặc điểm ở vế trước, sau đó nêu ý tương phản ở vế sau.",
+    "example": "この機械は見た目こそ古いが、性能はまだ十分に高い。"
+  },
+  {
+    "id": "r3",
+    "question": "そんな方法を選ぶ（　）、時間をかけてやり直したほうがいい。",
+    "options": [
+      "～くらいなら",
+      "～とされる",
+      "～というところだ",
+      "～なしに"
+    ],
+    "answer": "～くらいなら",
+    "explanation": "～くらいなら diễn tả rằng nếu phải chọn hành động không mong muốn ở vế trước thì thà chọn phương án ở vế sau.",
+    "example": "人に責任を押しつけるくらいなら、自分で最後まで説明したほうがいい。"
+  },
+  {
+    "id": "r4",
+    "question": "この規則では、作業記録を毎日提出する（　）。",
+    "options": [
+      "～ものとする",
+      "～ものとして",
+      "～とみえて",
+      "～ところを"
+    ],
+    "answer": "～ものとする",
+    "explanation": "～ものとする dùng để quy định hoặc xác lập nguyên tắc trong văn bản chính thức.",
+    "example": "作業記録は毎日、勤務終了時までに提出するものとする。"
+  },
+  {
+    "id": "r5",
+    "question": "十分な説明（　）、契約内容を変更することはできない。",
+    "options": [
+      "～なしに",
+      "～こそすれ",
+      "～とみると",
+      "～ぐらいのものだ"
+    ],
+    "answer": "～なしに",
+    "explanation": "Danh từ + なしに có nghĩa là không có / không thực hiện điều đó mà tiến hành việc khác.",
+    "example": "現場を確認することなしに、安全だと判断することはできない。"
+  },
+  {
+    "id": "r6",
+    "question": "慎重な彼（　）、提出前に何度も確認したはずだ。",
+    "options": [
+      "～のことだから",
+      "～としたところで",
+      "～ものとする",
+      "～こそあれ"
+    ],
+    "answer": "～のことだから",
+    "explanation": "～のことだから dự đoán dựa trên tính cách hoặc thói quen đã biết của một người.",
+    "example": "慎重な山田さんのことだから、提出前に資料を何度も確認したはずだ。"
+  },
+  {
+    "id": "r7",
+    "question": "この方法は、現在最も効率的な方法だ（　）。",
+    "options": [
+      "～とされている",
+      "～とみえて",
+      "～ところを",
+      "～ことなしに"
+    ],
+    "answer": "～とされている",
+    "explanation": "～とされている biểu thị một đánh giá hoặc quan niệm được công nhận rộng rãi.",
+    "example": "この方法は、現在最も効率的な方法だとされている。"
+  },
+  {
+    "id": "r8",
+    "question": "現場の担当者（　）、この手順にはまだ無駄が多い。",
+    "options": [
+      "～に言わせれば",
+      "～てこそ",
+      "～というところだ",
+      "～ものとして"
+    ],
+    "answer": "～に言わせれば",
+    "explanation": "～に言わせれば nêu nhận xét từ góc nhìn của người được nhắc đến.",
+    "example": "現場の作業者に言わせれば、この手順にはまだ無駄が多い。"
+  },
+  {
+    "id": "r9",
+    "question": "部長は忙しい（　）、昼休みも電話で話していた。",
+    "options": [
+      "～とみえて",
+      "～としたところで",
+      "～こそあれ",
+      "～ことのないように"
+    ],
+    "answer": "～とみえて",
+    "explanation": "～とみえて là suy đoán từ dấu hiệu quan sát được; ở đây việc liên tục nghe điện thoại cho thấy trưởng phòng bận.",
+    "example": "部長はかなり忙しいとみえて、昼休みも電話で話していた。"
+  },
+  {
+    "id": "r10",
+    "question": "この案を採用する（　）、先に予算を確認する必要がある。",
+    "options": [
+      "～とすれば",
+      "～とみると",
+      "～たところで",
+      "～られる（自発）"
+    ],
+    "answer": "～とすれば",
+    "explanation": "～とすれば đặt ra giả định “nếu áp dụng phương án này” để suy luận hành động cần thiết.",
+    "example": "この案を採用するとすれば、先に予算を確認する必要がある。"
+  },
+  {
+    "id": "r11",
+    "question": "お忙しい（　）、ご確認いただきありがとうございます。",
+    "options": [
+      "～ところを",
+      "～というところだ",
+      "～とされる",
+      "～ぐらいなら"
+    ],
+    "answer": "～ところを",
+    "explanation": "～ところを dùng trong lời cảm ơn / xin lỗi lịch sự khi người khác giúp đỡ trong hoàn cảnh không thuận tiện.",
+    "example": "お忙しいところを、詳しく説明していただきありがとうございます。"
+  },
+  {
+    "id": "r12",
+    "question": "今さら急いだ（　）、もう間に合わない。",
+    "options": [
+      "～たところで",
+      "～てこそ",
+      "～ものとして",
+      "～に言わせれば"
+    ],
+    "answer": "～たところで",
+    "explanation": "～たところで diễn tả rằng dù có làm hành động ấy thì kết quả tiêu cực vẫn không đổi.",
+    "example": "今から急いだところで、最終電車には間に合わない。"
+  }
+]
