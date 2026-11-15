@@ -2,7 +2,7 @@ let lessons=[], reviewQuestions=[], state={done:[],seen:[],reviews:{},lastScore:
 const $=s=>document.querySelector(s);
 async function init(){
   try{
-    const [lessonRes,reviewRes]=await Promise.all([fetch('data/grammar.json'),fetch('data/week1-review.json')]);
+    const [lessonRes,reviewRes]=await Promise.all([fetch('data/grammar.json?v=w1-20261115-r2'),fetch('data/week1-review.json?v=w1-20261115-r2')]);
     if(!lessonRes.ok||!reviewRes.ok)throw new Error('Không tải được dữ liệu');
     lessons=await lessonRes.json();reviewQuestions=await reviewRes.json();
   }catch(e){$('#lessonList').textContent='Không tải được dữ liệu. Hãy mở ứng dụng qua GitHub Pages hoặc máy chủ cục bộ.';return}
